@@ -1,6 +1,6 @@
 # Category Tab
 Live link - https://krishnendu-bera-github.github.io/category-tab/
-Description
+## Description
 This project is a simple web application built using HTML, CSS, and JavaScript. It displays a category selection menu and corresponding products fetched from an API.
 
 ## Installation
